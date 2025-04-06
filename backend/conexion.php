@@ -1,8 +1,8 @@
 <?php
 
 $host = "localhost";
-$usuario = "root";  
-$password = "";  
+$usuario = "formContactoSalle";  
+$password = "contPHP2000";  
 $base_datos = "form_usalle";
 
 $conexion = new mysqli($host, $usuario, $password, $base_datos);
